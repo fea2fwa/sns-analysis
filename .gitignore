@@ -1,0 +1,6 @@
+*.xlsx
+*.txt
+*.png
+Japan_LINE/__pycache__/
+zzz_*
+*.ipynb
